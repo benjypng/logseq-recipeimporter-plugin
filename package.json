@@ -1,6 +1,6 @@
 {
     "name": "logseq-recipeimporter-plugin",
-    "version": "1.0.o",
+    "version": "1.0.0",
     "description": "",
     "main": "dist/index.html",
     "targets": {
@@ -17,7 +17,6 @@
         "@logseq/libs": "latest",
         "autoprefix": "^1.0.1",
         "axios": "^0.26.0",
-        "jsonld": "^5.2.0",
         "node-html-parser": "^5.3.3",
         "postcss-cli": "^9.1.0",
         "postcss-import": "^14.0.2",
