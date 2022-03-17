@@ -16,7 +16,7 @@ const App = () => {
             return;
         } else if (e.key === "Enter") {
             try {
-                const response = await axios.get(recipeUrl.trim());
+                const response = await axios.get(recipeUrl);
 
                 const root = parse(response.data);
                 const text = root.querySelector(
@@ -24,14 +24,12 @@ const App = () => {
                 ).text;
                 let json = JSON.parse(text);
 
-                // if json is an object
                 if (json["@graph"]) {
                     json = json["@graph"];
-                }
-
-                if (json.length > 0) {
                     json.map((i) => {
-                        if (i["@type"] === "Recipe") json = i;
+                        if (i["@type"] === "Recipe") {
+                            json = i;
+                        }
                     });
                 }
 
@@ -41,8 +39,7 @@ const App = () => {
             } catch (e) {
                 console.log(e);
                 logseq.App.showMsg(
-                    "Apologies, the URL does not contain a valid recipe to parse.",
-                    "error"
+                    "Apologies, there was an error parsing the URL. Please file a Github issue with the URL."
                 );
                 setRecipeUrl("");
                 return;

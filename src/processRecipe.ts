@@ -28,7 +28,6 @@ const handleRecipeTime = (time: string) => {
 };
 
 export const processRecipe = async (recipe: Recipe) => {
-    console.log(recipe);
     const {
         name,
         image,
@@ -63,6 +62,9 @@ export const processRecipe = async (recipe: Recipe) => {
 ${Object.keys(a)}:: "${a[Object.keys(a).toString()]}"`;
     });
 
+    pageProperties = `tags:: [[recipes]]
+${pageProperties}`;
+
     await logseq.Editor.insertBlock(currPage.name, pageProperties, {
         isPageBlock: true,
         before: false,
@@ -71,7 +73,7 @@ ${Object.keys(a)}:: "${a[Object.keys(a).toString()]}"`;
 
     // insert image
     if (image) {
-        if (image.length > 0) {
+        if (Array.isArray(image)) {
             if (image[0].url) {
                 await logseq.Editor.insertBlock(
                     currPage.name,
@@ -97,10 +99,22 @@ ${Object.keys(a)}:: "${a[Object.keys(a).toString()]}"`;
                     }
                 );
             }
-        } else {
+        } else if (image.url) {
             await logseq.Editor.insertBlock(
                 currPage.name,
                 `![img](${image.url
+                    .replace("%3A", ":")
+                    .replace("%2F", "/")}){:width 500}`,
+                {
+                    isPageBlock: true,
+                    before: false,
+                    sibling: true,
+                }
+            );
+        } else {
+            await logseq.Editor.insertBlock(
+                currPage.name,
+                `![img](${image
                     .replace("%3A", ":")
                     .replace("%2F", "/")}){:width 500}`,
                 {
@@ -139,6 +153,4 @@ ${Object.keys(a)}:: "${a[Object.keys(a).toString()]}"`;
             before: false,
         });
     });
-
-    logseq.Editor.exitEditingMode();
 };
