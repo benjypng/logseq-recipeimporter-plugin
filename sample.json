@@ -1,0 +1,777 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/203961/seafood-marinara-pasta/",
+    "name": "Seafood Marinara Pasta",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F264783.jpg",
+        "width": 2604,
+        "height": 2640
+    },
+    "datePublished": "2019-07-10T07:01:51.000Z",
+    "description": "A little more elaborate then a basic marinara but still simple, quick and relatively cheap!  This recipe will feed 4 people who like to eat or 5-6 light eaters.",
+    "prepTime": "P0DT0H25M",
+    "cookTime": "P0DT0H30M",
+    "totalTime": "P0DT0H55M",
+    "recipeYied": "4 servings",
+    "recipeIngredient": [
+        "1 (16 ounce) package linguine pasta",
+        "1 tablespoon olive oil",
+        "4 cloves garlic, minced",
+        "1 small red onion, minced",
+        "1 tablespoon olive oil",
+        "2 tomatoes, seeded and diced",
+        "3 green onions, chopped",
+        "1 (8 ounce) can crushed tomatoes",
+        "1 tablespoon tomato paste",
+        "1 teaspoon dried oregano",
+        "1 teaspoon ground thyme",
+        "2 pounds mussels, cleaned and debearded",
+        "1 pound uncooked medium shrimp, peeled and deveined",
+        "1 cup dry white wine",
+        "2 teaspoons lemon juice",
+        "1 lemon - cut into wedges, for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the linguine, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 11 minutes. Drain well in a colander set in the sink.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon of olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Heat another tablespoon of olive oil in a large skillet over medium-low heat. Stir in diced tomatoes and green onion; cook and stir until the tomatoes have softened. Stir onion mixture into the tomatoes, then add crushed tomatoes, tomato paste, oregano, and thyme. Simmer for 5 minutes. Stir in mussels and shrimp, then pour in the wine and lemon juice. Cover and increase heat to high. Cook until shrimp have turned pink and mussels have opened, discarding any that have not opened. Serve over pasta and garnish with lemon wedges.\n"
+        }
+    ],
+    "recipeCategory": ["Mussel Recipes"],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Lee514",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/3845979"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 54,
+        "itemReviewed": "Seafood Marinara Pasta",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "878 calories",
+        "carbohydrateContent": "104 g",
+        "cholesterolContent": "236.1 mg",
+        "fatContent": "16.8 g",
+        "fiberContent": "6.7 g",
+        "proteinContent": "67.3 g",
+        "saturatedFatContent": "2.9 g",
+        "servingSize": null,
+        "sodiumContent": "938.6 mg",
+        "sugarContent": "7.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-09T06:54:33.103Z",
+            "reviewBody": "key to any recipe with mussels is to wash them thoroughly.  After I washed, debearded my mussels I added them to a bowl of water with fresh squeezed lemon.  This took any fish smell right out.  This recipe was very good.  Thank you",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-14T23:43:30.82",
+            "reviewBody": "Delicious! I made this as written, only adding black pepper and crushed red pepper for a little heat. The sauce is wonderful and the seafood is perfectly cooked. I threw a little chopped parsley on when I served this. Excellent! Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SunnyByrd",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-22T14:16:24.547Z",
+            "reviewBody": "Made this last night its super super easy! Used white wine vinegar instead however only used 1/4cup. Excellent! Keeping this recipe for the future.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KatieH85",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-28T11:01:24.590Z",
+            "reviewBody": "As written, it looks like the pasta/shrimp to sauce ratio would have been way out of whack.  I used about 10 oz of pasta, subbed a 14.5 oz can of fire roasted tomatoes (drained) for 1 of the fresh tomatoes, and subbed a 14.5 oz can of Italian stewed tomatoes (which I pureed) for the 8 oz of crushed tomatoes. I only used 1 Tbsp of oil total and also added in a can of mushrooms. I doubled the lemon juice, added a little cracked pepper and some red pepper flakes for a kick. Not a fan of mussels, so I used only shrimp, about 1.5 pounds.   We sprinkled fresh parm and fresh chopped basil on top.  It was really easy to make, flavorful and healthy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nicole Burdett",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-09T16:16:07.737Z",
+            "reviewBody": "The sauce was bland and there was far too much liquid. It did not cling to the pasta properly (of which there was far too much called for in the recipe). I would not make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AMLev",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-29T00:51:47.907Z",
+            "reviewBody": "Love this dish! Only thing we did different was to cook the mussels beforehand then add the meat to the sauce, plus we added scallops and chopped clams and some italian seasoning. MMMmmmmm!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karen Keyes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-07T11:28:10.087Z",
+            "reviewBody": "Love this recipe!! My fiance was like eww when i said i was making seafood with marinara sauce(he loves his alfredo sauce) but he loved it. Even asked to make it again 2 weeks later! The only thing i did different is to add some red pepper flakes and black pepper as suggested in an earlier review! Thanks for the great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ashleycivi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-24T15:56:33.597Z",
+            "reviewBody": "Had this tonight & my 8yr old loved it...I used only chopped clams & mussels...didn't have any white wine & it still came out supurb.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JMwalsh",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-13T05:04:25.360Z",
+            "reviewBody": "I made this recipe for Mother's Day this year and it was a hit!  I added extra crushed tomatoes and a little sugar for sweetness.  Delicious!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-15T09:00:23.210Z",
+            "reviewBody": "Thought the sauce was a little taste less",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ang0103",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-21T09:23:01.473Z",
+            "reviewBody": "I found this dish a little bland, but if you really just want to taste the seafood with only a little flavor coming from the sauce, it's ok.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "360grill",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-02-12T19:22:27.020Z",
+            "reviewBody": "Absolutely wonderful. I used an entire box of Pomi tomatoes and half a bottle of wine. Ah-maz-ing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ErikaSue",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-02-26T12:11:15.823Z",
+            "reviewBody": "Made using recipe as a spice amounts guideline.  Flavor was great!  I did find a frozen mix of the various seafood and used this with extra shrimp.  Will make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tarrajo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-11T22:16:29.637Z",
+            "reviewBody": "So, so good! My entire family gobbled this up. Didn't change a thing and it came it perfectly, although the sauce is much more like a broth, which we like better anyway. Poured it over the pasta and sopped up the broth with crusty french bread. Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Changirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-11-08T01:16:32.680Z",
+            "reviewBody": "followed the instruction as it is, i added a dash of salt and pepper. Simple, easy and delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ren",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-11-10T05:57:26.623Z",
+            "reviewBody": "I made this for dinner last night using all mussels because they were on sale. Instead of crushed tomatoes I used chopped romas from my freezer and some extra paste. I also added a few crushed red pepper flakes. Hubby says it was the best seafood marinara he has ever had. Next time I will use shrimp. Excellent recipe for cold, fall night at home.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ann Brennan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-29T22:07:30.55",
+            "reviewBody": "This is soooooo good!!!  I did change it a bit, 1/2 red onion seemed to be plenty.  I couldn't find an 8 oz can of crushed tomatoes so I got a regular sized one (12-14 oz) and I accidently put the whole little can of tomato paste in.  Oops, but it didn't hurt anything because it was delicious! It was just a thicker more tomatoey sauce and that was fine with us.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "IMATECHGIRL",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-06T10:53:42.483Z",
+            "reviewBody": "Very very good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gemipisces",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-08-28T16:17:49.333Z",
+            "reviewBody": "Boring - missing something, used scallops instead of mussels (hubby not fond of them), toooooo much liquid.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patti Fremeau Polychrones",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-10-23T12:38:44.373Z",
+            "reviewBody": "The sauce was a touch over-done for the flavor it produced. I thought it was a touch too much tomato-tasting (even for a marinara). However, the shellfish was really good with the exception of the mussels, but I think the mussels had more to do with the quality at my grocery store as opposed to the recipe. Over all, it was ... okay - nothing special; I probably will not be making this one again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rmdave2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-08-19T20:41:04.877Z",
+            "reviewBody": "Delish!! I didn't have shrimp or wine so I used vegetable broth instead. I added shallots. My DD requested this meal before going off to college. She loved this. Now she has requested this whenever she returns home.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "threeks3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-11-22T18:12:47.030Z",
+            "reviewBody": "I replaced mussels with large scallops, it was good and low calorie.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Becky E",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-06-17T21:54:41.710Z",
+            "reviewBody": "This was very good.  I found a package of frozen mussels at Whole Foods so decided to make this also using frozen shrimp.  I used chopped tomatoes instead of fresh, and tomato sauce in place of crushed because that's what I had.  It would be hard to mess this one up.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "June Winters",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-04-17T21:19:18.510Z",
+            "reviewBody": "I followed others advice in adding more in all seafood areas except the whole clams. Also made more sauce as recommended change , and it was awesome. Thank you very much.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bill",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-04-26T21:51:52.017Z",
+            "reviewBody": "My favorite marinara recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bonnielynn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-03-02T04:36:00.493Z",
+            "reviewBody": "So good. You can make it spicier or milder too. No matter what it is very, very good. Got compliments on it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-06-16T18:16:34.770Z",
+            "reviewBody": "It was good but the sauce was more of a broth than a sauce.  Would like to see it a little thicker.  Made it exactly as in the recipe. Very easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dayle M",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-06-25T02:01:53.363Z",
+            "reviewBody": "But, I only did shrimp and no thyme or mussels.  All in all I'd like to try again but  by the full recipe although I probably will still have no thyme...:)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ColleenCanuck",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-03T11:25:40.247Z",
+            "reviewBody": "I love this recipe! It's easy and delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Misty",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-27T03:07:49.820Z",
+            "reviewBody": "I add garlic salt, mushroons & basil .",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Martinez",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-22T20:39:46.367Z",
+            "reviewBody": "Made it tonight, it was fantastic. I used water and a seafood flavoring packet in place of white wine. For a spicier version I might add crushed red pepper or some spicy condiment next time. This is a little time consuming but well worth it on your day off!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TL Poe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-04T23:32:31.203Z",
+            "reviewBody": "Delicious flavor! I used scallops instead of mussels and still yummy! Sauce was a little thin so I might try it with whole stewed tomatoes next time instead of crushed tomatoes. Everyone loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Donna Schwartz Gudmestad",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-10-01T01:56:32.640Z",
+            "reviewBody": "Great Marinara recipe. It is restaurant quality.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-09-08T18:18:43.507Z",
+            "reviewBody": "First of all, I read all nineteen reviews before beginning this adventure.  Thank you for all the advice.  I used my white garden onions & tomatoes.  I used vegetable oil rather than olive oil because I was out.  I did not use vinegar.  I added a lot of black pepper, salt, oregano, & some sugar.  I used raw scallops and let those simmer in the sauce.  I used pre-cooked mussels & shrimp which I added near the end just to heat through.  I did not measure anything.  My sauce was pretty running, I think because of the seafood I used & how it had been packaged.  I used most of a 12oz can of tomato paste to thicken the sauce.  This was fabulous!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DonnaPella",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-31T22:11:34.853Z",
+            "reviewBody": "Super easy to make! I used mussels and scallops, and it was delicious. Feel free to add red pepper flakes for a little spice, or serve cold on Foccia bread sliced as a bruscetta.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MD Swanson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2022-03-01T21:53:14.796Z",
+            "reviewBody": "I followed the recipe completely except for adding a bit more hot pepper flakes (as I love spice & heat). It is a keeper and I will make it again in the future.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Willy P",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-02-25T17:44:58.030Z",
+            "reviewBody": "Watery, too much oregano.\nStarched it and tasted poor.\nOnions not defined unless you read thoroughly.\n\nTurned the garlic brown before onions added.\nLotta work.Waste of shrimp and fresh mussels.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-04-02T13:46:56.077Z",
+            "reviewBody": "Made this with only slight modifications to fit our pantry - chopped one large tomato, then drained and used a can of diced to take the place of the second; also let it cook down a bit more than the recipe before adding the seafood.  All in all, a great recipe we will make again.  Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-06-30T21:36:58.997Z",
+            "reviewBody": "This is a great recipe as is, my substitute, however, is to use the frozen seafood mix that I find in my grocer's frozen seafood section. I've made this a few times and, once, being short on time I used a jar a marinara...it was still yummy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JenP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-09-12T03:16:45.703Z",
+            "reviewBody": "It was amazing!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MJ Siy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-10-22T20:19:00.300Z",
+            "reviewBody": "Simple!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cindy",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

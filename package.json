@@ -1,35 +1,38 @@
 {
-  "name": "test",
-  "version": "1.0",
-  "description": "",
-  "main": "dist/index.html",
-  "targets": {
-    "main": false
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "postcss src/tailwind.css -o src/App.css && parcel build --no-source-maps src/index.html --public-url ./"
-  },
-  "keywords": [],
-  "author": "hkgnp",
-  "license": "MIT",
-  "dependencies": {
-    "@logseq/libs": "latest",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "autoprefix": "^1.0.1",
-    "postcss-cli": "^9.1.0",
-    "postcss-import": "^14.0.2",
-    "tailwindcss": "^3.0.15"
-  },
-  "logseq": {
-    "id": "test",
-    "title": "test",
-    "icon": ""
-  },
-  "devDependencies": {
-    "parcel": "latest",
-    "@types/react": "^17.0.38",
-    "@types/react-dom": "^17.0.11"
-  }
+    "name": "logseq-recipeimporter-plugin",
+    "version": "1.0.o",
+    "description": "",
+    "main": "dist/index.html",
+    "targets": {
+        "main": false
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "postcss src/tailwind.css -o src/App.css && parcel build --no-source-maps src/index.html --public-url ./"
+    },
+    "keywords": [],
+    "author": "hkgnp",
+    "license": "MIT",
+    "dependencies": {
+        "@logseq/libs": "latest",
+        "autoprefix": "^1.0.1",
+        "axios": "^0.26.0",
+        "jsonld": "^5.2.0",
+        "node-html-parser": "^5.3.3",
+        "postcss-cli": "^9.1.0",
+        "postcss-import": "^14.0.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "tailwindcss": "^3.0.15"
+    },
+    "logseq": {
+        "id": "logseq-recipeimporter-plugin",
+        "title": "logseq-recipeimporter-plugin",
+        "icon": "./icon.svg"
+    },
+    "devDependencies": {
+        "@types/react": "^17.0.38",
+        "@types/react-dom": "^17.0.11",
+        "parcel": "latest"
+    }
 }
