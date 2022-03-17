@@ -4,6 +4,8 @@
 
 A simple plugin to import recipes directly into Logseq just by using the URL of the recipe!
 
+![](/screenshots/demo.gif)
+
 # Usage
 
 Click on the plugin icon, key in the URL of the recipe page, and press 'Enter'! Some recipe pages are not supported. For example, if you search for a recipe in Google, and the recipes that are previewed should work. Those that do not have a preview may not.
