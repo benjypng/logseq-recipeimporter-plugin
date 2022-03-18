@@ -62,8 +62,7 @@ export const processRecipe = async (recipe: Recipe) => {
 ${Object.keys(a)}:: "${a[Object.keys(a).toString()]}"`;
     });
 
-    pageProperties = `tags:: [[recipes]]
-${pageProperties}`;
+    pageProperties = `tags:: [[recipes]]${pageProperties}`;
 
     await logseq.Editor.insertBlock(currPage.name, pageProperties, {
         isPageBlock: true,
